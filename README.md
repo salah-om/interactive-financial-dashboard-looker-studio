@@ -1,8 +1,10 @@
 # 🛠️ Interactive Financial dashboard looker-studio 📊💰
 Interactive financial dashboards built with Google Looker, showcasing real-time data visualizations for financial performance, KPI tracking, and business insights. 
+
+## Link
 Here is the direct link to interact and view the dashboard: https://lookerstudio.google.com/reporting/b0c9e37e-ad44-4d0d-bfd8-c26741dd7f96
 
-## Images
+
 <img width="1055" height="663" alt="Screenshot 2026-01-14 144920" src="https://github.com/user-attachments/assets/2ea1a011-f419-4734-97b0-02e2ece17c62" />
 <img width="1059" height="619" alt="Screenshot 2026-01-14 145220" src="https://github.com/user-attachments/assets/486a840e-6aac-4eb3-b068-0921fa6b8f5d" />
 <img width="1054" height="666" alt="image" src="https://github.com/user-attachments/assets/a488e706-cd70-4e39-ac17-b3dfcd30344f" />
